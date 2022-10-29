@@ -1,1 +1,1 @@
-# DynamciDukensParellel
+# DynamicDukensParallel
